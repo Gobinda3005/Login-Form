@@ -1,0 +1,76 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+/* 
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+
+
+
+
+.hedding{
+  font-family: cursive;
+  text-align: center;
+}
+
+
+.registration-form {
+  display: flex;
+  width: 800px;
+  height: 1425px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 200px;
+  align-items: center;
+  /* position: absolute;
+  right: 350px;
+  top:100px; */
+    
+
+}
+.forms{
+  height: 203vh;
+  width: 99vw;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.775),rgb(9, 9, 9));
+    animation: run-animation 10s infinite linear;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa6a4ea-c1a3-43f4-a570-7390bfb6c564/dek89am-fdbeea0c-d3bd-418e-902f-90feb8f0bee9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYTZhNGVhLWMxYTMtNDNmNC1hNTcwLTczOTBiZmI2YzU2NFwvZGVrODlhbS1mZGJlZWEwYy1kM2JkLTQxOGUtOTAyZi05MGZlYjhmMGJlZTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RckxHqHOcqa0jeNpQCIJpARFb3aissJdp6CB1AajxRk'); 
+    background-size: contain; 
+    /* background-repeat: no-repeat; */
+}
