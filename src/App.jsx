@@ -37,6 +37,7 @@ const App = () => {
     <div>
     <Navbar />
     <div className='forms'>
+    <button type="button" className="btn btn-secondary"><p className="btn btn-dark"></p>
     <div className="registration-form">
       <div className='title'>
       </div>
@@ -186,6 +187,7 @@ const App = () => {
 			</form>
 		</div>
     </div>
+    </ button>
     </div>
     </div>
 	)
